@@ -6,16 +6,16 @@ I'm  Daria Stavytska, QA Engineer.
 
 | Testing | [Theory, test design techniques](https://github.com/DariaStavytska/Theory-test-design-techniques?tab=readme-ov-file) |
 | :----------------- | :------------------ |
-| Documentation   | [Test cases](https://github.com/RomanPravdiuk/Test-cases), [checklists](https://github.com/RomanPravdiuk/Checklists), [bug reports](https://github.com/RomanPravdiuk/Bug-reports)  |
-| Networks   | [HTTP, Client-server architecture, OSI model](https://github.com/RomanPravdiuk/HTTP-Client-server-architecture-OSI-model)  |
-| Tools   | [Chrome DevTools](https://github.com/RomanPravdiuk/Chrome-DevTools), [Postman](https://github.com/RomanPravdiuk/Postman), [Swagger](https://github.com/RomanPravdiuk/swaggerhub)  |
-| CI tools   |  [GIT](https://github.com/RomanPravdiuk/GIT)  |
-| Relational DB   | [SQL](https://github.com/RomanPravdiuk/SQL), [DBeaver](https://github.com/RomanPravdiuk/SQL)  |
-| Non-relational DB   | [MongoDB](https://github.com/RomanPravdiuk/NoSQL), [Studio 3T](https://github.com/RomanPravdiuk/NoSQL)  |
-| Issue trackers   | [Jira](https://github.com/RomanPravdiuk/JIRA), [TestRail](https://github.com/RomanPravdiuk/TestRail)   |
-| Methodologies   | [Agile, Scrum, Kanban, Scrumban](https://github.com/RomanPravdiuk/Agile-Scrum-Kanban-Scrumban) |
-| Data formats   | [JSON](https://github.com/RomanPravdiuk/JSON)  |
-| Web   | [HTML, CSS](https://github.com/RomanPravdiuk/HTML-CSS), [Cache, Cookie, Local storage ](https://github.com/RomanPravdiuk/Cache-Cookie-Local-storage) |
+| Documentation   | [Test cases](https://github.com/DariaStavytska/Test-cases), [checklists](https://github.com/DariaStavytska/Checklists), [bug reports](https://github.com/DariaStavytska/Bug-reports)  |
+| Networks   | [HTTP, Client-server architecture, OSI model](https://github.com/DariaStavytska/HTTP-Client-server-architecture-OSI-model)  |
+| Tools   | [Chrome DevTools](https://github.com/DariaStavytska/Chrome-DevTools), [Postman](https://github.com/DariaStavytska/Postman), [Swagger](https://github.com/DariaStavytska/Swaggerhub)  |
+| CI tools   |  [GIT](https://github.com/DariaStavytska/GIT?tab=readme-ov-file)  |
+| Relational DB   | [SQL](https://github.com/DariaStavytska/SQL), [DBeaver](https://github.com/DariaStavytska/SQL)  |
+| Non-relational DB   | [MongoDB](https://github.com/DariaStavytska/NoSQL), [Studio 3T](https://github.com/DariaStavytska/NoSQL)  |
+| Issue trackers   | [Jira](https://github.com/DariaStavytska/JIRA), [TestRail](https://github.com/DariaStavytska/TestRail)   |
+| Methodologies   | [Agile, Scrum, Kanban, Scrumban](https://github.com/DariaStavytska/Agile-Scrum-Kanban-Scrumban) |
+| Data formats   | [JSON](https://github.com/DariaStavytska/JSON)  |
+| Web   | [HTML, CSS](https://github.com/DariaStavytska/HTML-CSS), [Cache, Cookie, Local storage ](https://github.com/DariaStavytska/Cache-Cookie-Local-storage) |
 | Languages   | English, Ukrainian  |
 
 ---
@@ -54,8 +54,8 @@ Successfully completed [Advanced Software Testing Course under personal supervis
 
 <div id="badges">
 
-[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/roman-pravdyuk-qa/)
+[![linked-in](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daria-stavytska-6979842b9/)
  
 <div id="badges">
 
-[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/RomanPravdiukQA)
+[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Daria_Stavytska)
