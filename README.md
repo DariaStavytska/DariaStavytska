@@ -4,7 +4,7 @@ I'm  Daria Stavytska, QA Engineer.
 
 #### Skills:
 
-| Testing | [Theory, test design techniques](https://github.com/RomanPravdiuk/Theory-test-design-techniques) |
+| Testing | [Theory, test design techniques](https://github.com/DariaStavytska/Theory-test-design-techniques?tab=readme-ov-file) |
 | :----------------- | :------------------ |
 | Documentation   | [Test cases](https://github.com/RomanPravdiuk/Test-cases), [checklists](https://github.com/RomanPravdiuk/Checklists), [bug reports](https://github.com/RomanPravdiuk/Bug-reports)  |
 | Networks   | [HTTP, Client-server architecture, OSI model](https://github.com/RomanPravdiuk/HTTP-Client-server-architecture-OSI-model)  |
