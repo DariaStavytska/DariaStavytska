@@ -22,7 +22,7 @@ I'm  Daria Stavytska, QA Engineer.
 
 #### Experience:
 
-Galaktica: December 2022 - April 2023
+Plutarh-M: January 2024 - 
 
 ---
 
