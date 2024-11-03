@@ -22,7 +22,7 @@ I'm  Daria Stavytska, QA Engineer.
 
 #### Experience:
 
-Plutarh-M: January 2024 - Present.
+Plutarh-M: January 2024 - Present
 
 ---
 
