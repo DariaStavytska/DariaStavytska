@@ -28,7 +28,7 @@ Plutarh-M: January 2024 - Present
 
 ### Education:
 
-Successfully completed [Advanced Software Testing Course under personal supervision of a mentor.](https://ilarionhalushka.github.io/certificates/Roman-Pravdiuk#certificate-of-completion-)
+Successfully completed Advanced Software Testing Course under personal supervision of a mentor.
 
 ---
 
